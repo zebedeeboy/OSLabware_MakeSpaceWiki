@@ -1,0 +1,9 @@
+| [[Open Source Labware]]
+| Prototyping/design stage
+| Tobey Wenzel
+[[User:Zebedeeboy|Ian Mc]]
+| Design and prototyping of open source labware. Funded by the University of Cambridge Synthetic Biology SRI.
+* gel electrophoresis chamber
+* bench centrifuge
+* PCR/thermocycler
+* automatic pipette

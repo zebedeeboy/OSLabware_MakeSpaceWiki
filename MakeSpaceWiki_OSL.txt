@@ -1,0 +1,32 @@
+== Rationale ==
+Open source (OS) is reliant on a free and efficient exchange of concepts and products, and has been most successful in computing where the internet and common coding languages have enabled widespread dissemination of and participation in software projects. Open biology will require a similar set of systems in order to prosper.
+
+In lab hardware terms, OS allows for the creation of tailored solutions using modifiable equipment rather than general purpose lab equipment. Many lab processes have common physical (eg heating/cooling for PCR, incubation, hot blocks) and software (eg peak detection, feedback control) components.
+
+We plan to build and assess the function of the systems to generate a resource of example equipment, subassemblies, suppliers, expertise, and documented software and hardware component libraries that will be useful to the open biology movement.
+
+==Design criteria ==
+The main criteria are
+*Safety
+*Quality
+*Adaptability
+*Ease of build
+
+Open Source labware should be useable by professional, educational, and home (or diy) scientists. However these groups have different performance requirements for their labware.
+
+{| class="wikitable"
+|-
+! User !! Safe? !! High Performance? !! Good Quality? !! Adaptable? !! Easy to build? !! Is OS? !! Low Cost?
+|-
+| '''R&D''' || ++ || +++ || +++ || ++ || +++/+ || + || +
+|-
+| '''Educational''' || +++ || ++ || ++ || + || +++/+ || + || ++
+|-
+| '''diy''' || + || + || + || +++ || ++ || ++ || +++
+|}
+
+== Projects ==
+=== Gel Electrophoresis Box ===
+=== Bench Centrifuge ===
+=== PCR/Thermocycler ===
+=== Automatic Pipette  ===
